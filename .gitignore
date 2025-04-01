@@ -1,0 +1,26 @@
+# Telethon сессии
+*.session
+*.session-journal
+
+# CSV-файлы с информацией о чатах
+telegram_*.csv
+
+# Конфиги с реальными данными (опционально)
+# config.py
+
+# Python кеш
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Логи
+*.log
+
+# OS файлы
+.DS_Store
+Thumbs.db 
