@@ -26,7 +26,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/telegram-reaction-bot.git
+   git clone https://github.com/mudachyo/telegram-reaction-bot.git
    cd telegram-reaction-bot
    ```
 
